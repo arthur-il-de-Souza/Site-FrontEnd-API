@@ -2,45 +2,45 @@
   "produtos": [
     {
       "id": 1,
-      "produto": "Jogo 1",
+      "produto": "Placa Mãe Asus",
       "descricao": "Descricão do jogo 1",
       "foto": "prod-01.png",
-      "preco": 100
+      "preco": 1249.52
     },
     {
       "id": 2,
-      "produto": "Jogo 2",
-      "descricao": "Descricão do jogo 2",
-      "foto": "prod-02.png",
-      "preco": 200
+      "produto": "Monitor Ultra Wide",
+      "descricao": "Descrição do jogo 2",
+      "foto": "prod-09.png",
+      "preco": 12249.9
     },
     {
       "id": 3,
-      "produto": "Jogo 3",
+      "produto": "Controle Dualschock 4",
       "descricao": "Descricão do jogo 3",
       "foto": "prod-03.png",
-      "preco": 300
+      "preco": 281.52
     },
     {
       "id": 4,
-      "produto": "Jogo 4",
+      "produto": "MacBook Pro",
       "descricao": "Descrição do jogo 4",
       "foto": "prod-04.png",
-      "preco": 400
+      "preco": 25499.98
     },
     {
       "id": 5,
-      "produto": "Jogo 5",
+      "produto": "Smartphone",
       "descricao": "Descrição do jogo 5",
-      "foto": "prod-05.png",
-      "preco": 500
+      "foto": "prod-10.png",
+      "preco": 1249.52
     },
     {
       "id": 6,
-      "produto": "Jogo 6",
+      "produto": "Placa Mãe Gigabyte",
       "descricao": "Descrição do jogo 6",
       "foto": "prod-06.png",
-      "preco": 600
+      "preco": 12249.52
     }
   ]
 }

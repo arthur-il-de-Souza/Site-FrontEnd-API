@@ -28,6 +28,9 @@ import { AtualizaProdutoComponent } from './restrito/atualiza-produto/atualiza-p
 import { CadastroProdutoComponent } from './restrito/cadastro-produto/cadastro-produto.component';
 import { ListaProdutoComponent } from './restrito/lista-produto/lista-produto.component';
 import { MenuRestritoComponent } from './restrito/menu-restrito/menu-restrito.component';
+import { FooterComponent } from './footer/footer.component';
+import { MenuListComponent } from './menu-list/menu-list.component';
+import { BannerComponent } from './banner/banner.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +43,10 @@ import { MenuRestritoComponent } from './restrito/menu-restrito/menu-restrito.co
     AtualizaProdutoComponent,
     CadastroProdutoComponent,
     ListaProdutoComponent,
-    MenuRestritoComponent
+    MenuRestritoComponent,
+    FooterComponent,
+    MenuListComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,
