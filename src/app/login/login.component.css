@@ -1,27 +1,32 @@
-.example-spacer {
-flex: 1 1 auto;
+#section-login {
+  /* height: 20rem; */
+  /* background: red; */
+  margin-bottom: 10rem;
 }
-main{
-display: flex;
-justify-content: center;
-align-items: center;
-min-height: 700px;
+
+.container-login {
+  width: 100%;
+  max-width: 450px;
+  padding: 10px;
+  background: rgba(121, 124, 190, 0.9);
+  border-radius: 10px;
+  box-shadow: rgba(41, 44, 190, 0.4) 0px 5px, rgba(41, 44, 190, 0.3) 0px 10px,
+    rgba(41, 44, 190, 0.2) 0px 15px, rgba(41, 44, 190, 0.1) 0px 20px,
+    rgba(41, 44, 190, 0.05) 0px 25px;
 }
-#section-login{
-height: 100%;
-width: 400px;
-border-radius: 10px;
-border: 2px solid black;
-padding: 10px 20px;
+
+.login-button {
+  background-color: #292c74;
 }
-span{
-padding: 5px 5px;
+
+.login-title-font {
+  color: rgba(30, 33, 102, 0.9);
+  font-weight: 700;
+  font-family: var(--font-title);
+  letter-spacing: 2px;
 }
-a{
-text-decoration: none;
-color: white;
-}
-img{
-height: 50px;
-width: 50px;
+
+.login-content-font {
+  color: var(--text-general-color);
+  font-family: var(--font-content);
 }
