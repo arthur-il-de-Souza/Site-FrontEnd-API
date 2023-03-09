@@ -1,0 +1,38 @@
+#nav-bot {
+  background-color: #797cbe;
+}
+
+.nav-bot-center {
+  margin: 0 auto;
+  max-width: 1120px;
+}
+
+.nav-item {
+  width: 25%;
+  text-align: center;
+}
+
+.nav-link {
+  transition: 0.25s;
+  color: var(--text-general-color);
+  font-family: var(--font-main);
+}
+
+.nav-link:hover {
+  background-color: var(--text-general-color);
+  color: var(--sec-color);
+}
+
+@media (max-width: 1000px) {
+  #nav-bot{
+    font-size: 70%;
+  }
+
+  .fa-list-ul {
+    font-size: 90%;
+  }
+
+  span {
+    font-size: 0;
+  }
+}
